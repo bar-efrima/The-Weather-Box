@@ -24,7 +24,7 @@ It then extracts the main weather condition from the string and subsequently dis
   Video link: 
   https://www.youtube.com/watch?v=788kr_7DwH4&ab_channel=BarEfrima
   Created By:
-  Bar Efrima 208236604 and Tal Barda 206585614
+  Bar Efrima and Tal Barda
 */
 
 
